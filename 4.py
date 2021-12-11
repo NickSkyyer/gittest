@@ -4299,7 +4299,7 @@
 #     print(result_list)
 #     break
 
-import shelve
+# import shelve
 # book = shelve.open('addresses')
 # # book['shcheglov'] = ('nick', '0661889110', 'Viatska Street, 59')
 # book['ivanov'] = ('petr', '0661234567', 'Sumska Street, 1')
@@ -4310,3 +4310,4 @@ import shelve
 #     print(book[key])
 # book.close()
 
+print('Hi')
